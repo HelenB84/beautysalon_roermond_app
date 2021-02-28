@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   },
 
   text2:{
-      fontWeight: "500",
+      fontWeight: "600",
   },
 
   input:{
