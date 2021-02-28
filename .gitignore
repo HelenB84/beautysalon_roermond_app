@@ -1,4 +1,11 @@
 node_modules/**/*
+/node_modules
+/.iml
+/.idea
+target
+.pnp.js
+/.pnp
+
 .expo/*
 npm-debug.*
 *.jks
